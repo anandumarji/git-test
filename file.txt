@@ -1,3 +1,7 @@
 this is a test for git
 Adding data for merge test
+<<<<<<< HEAD
 Adding data to confilict
+=======
+Adding the entry to check with git assign
+>>>>>>> bc20221d5fff63b365c7920ff2323b6ae3c0765d
