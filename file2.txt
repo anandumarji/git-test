@@ -1,4 +1,5 @@
 this is a asignment file to perform operations
 
-modifying the file to test
+modifying the two things in file to test
+
 adding new things for checking the merge
