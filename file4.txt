@@ -1,1 +1,2 @@
-Adding file from git-verify folder
+Adding the hack from git-assign folder
+file from git-verify folder
